@@ -1,4 +1,4 @@
-# handwrittendigit_recognizer
+# DigiEnabler
 
 A Handwritten Digit Recognition Model Using scikit-learn
 
